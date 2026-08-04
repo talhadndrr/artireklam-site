@@ -1,0 +1,18 @@
+ARTI REKLAM SEO PAKETİ
+
+Bu klasördeki dosyaların tamamını proje klasörünün kök dizinine kopyalayın:
+- index.html
+- favicon.ico
+- favicon-32x32.png
+- apple-touch-icon.png
+- og-image.png
+- robots.txt
+- sitemap.xml
+
+Ardından PowerShell:
+
+git add .
+git commit -m "SEO favicon ve paylaşım önizlemesi eklendi"
+git push
+
+Vercel dağıtımı tamamlandıktan sonra tarayıcıda Ctrl + F5 ile yenileyin.
