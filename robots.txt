@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://artireklam-site.vercel.app/sitemap.xml
+Sitemap: https://artigruptr.com/sitemap.xml
